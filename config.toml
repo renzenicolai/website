@@ -1,4 +1,4 @@
-baseURL = "http://renzenicolai.nl/"
+baseURL = "https://renzenicolai.nl/"
 languageCode = "en-us"
 title = "Renze's website"
 theme = "minimal"
