@@ -1,0 +1,10 @@
+{{ partial "header" . }}
+
+<main>
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        {{ with .Content }} <div class="homepage-content">{{ . }}</div> {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}
