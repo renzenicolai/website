@@ -28,6 +28,11 @@ googleAnalytics = ""
     name = "Projects"
     weight = 2
 
+[[menu.main]]
+    url = "/company"
+    name = "Company"
+    weight = 3
+
 #[[menu.main]]
 #    url = "/about/"
 #    name = "About me"
